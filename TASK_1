@@ -1,1 +1,3 @@
 print("Hello World")
+price=100
+print("price")
